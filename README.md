@@ -4,7 +4,7 @@ Varios proyectos realizados con lenguaje Java. Este repositorio contiene varios 
 ## Lista de proyectos
 ### Proyecto 1: Este proyecto es una aplicación de consola que permite a los usuarios efectuar calculos matematicos varios.  
 ### Proyecto 2: Este proyecto es una aplicación de consola que permite a los usuarios registrar, listar, modificar y eliminar personas.
-### Proyecto 3: Este proyecto es una aplicación ...
+### Proyecto 3: Este proyecto es una aplicación que simula una maquina expendedora de boletos.
 ### Proyecto 4: Este proyecto es una aplicación ...
 
 ## Requisitos
